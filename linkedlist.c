@@ -6,3 +6,5 @@ typedef struct linknd{
 	//struct linked *next;
 }linknd_t;
 
+static linknd_t *list; //linked list ½ÇÃ¼ 
+
